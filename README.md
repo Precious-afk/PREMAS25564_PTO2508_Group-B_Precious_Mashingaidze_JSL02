@@ -29,19 +29,19 @@ This project involves implementing a JavaScript-based task entry system where us
 
 A functional task entry system that ensures accurate data collection, validation, and structured storage while maintaining clean and well-documented code for easy future modifications.
 
-**Prompt Input Example**
+### Prompt Input Example
 
 - The program must prompt users for task 1 title, descrition and status inputs, it must do the same for task 2 information
 
   ![title prompt](./explainer-images/title%20prompt.png)
 
-**Invalid status**
+### Invalid status
 
 - If the user enters a status other than `todo`, `doing` or `done`, the program must alert the user of this and return to prompting them to enter a status.
 
   ![invalid status](./explainer-images/invalid%20status.png)
 
-**Console log**
+## Console log
 
 - When there is a completed task:
 
